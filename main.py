@@ -1,4 +1,6 @@
 def function():
     print('Hello world!')
+    print('Конец!')
 
-function()
+if __name__ == '__main__':
+    function()
